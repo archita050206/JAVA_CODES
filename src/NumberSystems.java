@@ -5,5 +5,6 @@ public class NumberSystems {
         int hex=0xA;
         int oct=012;
         System.out.println(x+" "+bin+" "+hex+" "+oct);
+        
     }
 }
