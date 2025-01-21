@@ -17,5 +17,7 @@ public class MissingNumber {
         }
     }
     if(!b)System.out.println("No missing element");
+    
+    sc.close();
 }
 }
