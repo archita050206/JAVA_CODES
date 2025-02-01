@@ -24,5 +24,6 @@ public class pass {
                 System.out.println("Failed");
             }
         }
+        sc.close();
     }
 }
