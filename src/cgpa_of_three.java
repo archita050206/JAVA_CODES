@@ -13,5 +13,6 @@ public class cgpa_of_three {
         sc.nextLine();
         double cgpa=((10*4)+(10*3)+(10*2))/9.0;
         System.out.println("cgpa: "+cgpa);
+        sc.close();
     }
 }

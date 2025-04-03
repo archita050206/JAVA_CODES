@@ -16,5 +16,6 @@ public class BoardExam {
         sc.nextLine();
         float sum=(phy+chem+bio+maths)/4.0f;
         System.out.println("Percentage is: "+sum+"%");
+        sc.close();
     }
 }

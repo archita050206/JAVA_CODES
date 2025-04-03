@@ -1,4 +1,4 @@
-import java.util.*;
+
 abstract class Animal{
     Animal(){
         System.out.println("This is animal class");
